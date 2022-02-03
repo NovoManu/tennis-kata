@@ -1,6 +1,8 @@
 # Tennis Game Kata JavaScript
 Kata is taken here: https://github.com/ardalis/kata-catalog/blob/main/katas/Tennis%20Scoring.md
 
+## Prerequisites
+Node>=16
 
 ## Getting started
 ```
@@ -8,6 +10,7 @@ cd existing_repo
 git remote add origin https://gitlab.com/sennder/engineering-effectiveness/recruiting/tennis-game-kata-javascript.git
 git branch -M main
 git push -uf origin main
+npm ci
 ```
 
 ## Testing
