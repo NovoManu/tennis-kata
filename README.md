@@ -10,6 +10,11 @@ git branch -M main
 git push -uf origin main
 ```
 
+## Testing
+We can run all test cases with `npm test`
+
+To start development in TDD mode use `npm run tdd`
+
 ## Introduction
 We are going to create a game between two tennis players.
 We should specify a game rules and players.
