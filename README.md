@@ -6,10 +6,6 @@ Node>=16
 
 ## Getting started
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/sennder/engineering-effectiveness/recruiting/tennis-game-kata-javascript.git
-git branch -M main
-git push -uf origin main
 npm ci
 ```
 
