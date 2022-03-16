@@ -40,8 +40,23 @@ The probability between two players:
 We should create a game and simulate it between two type of players.
 Write a program to handle each of these requirements while scoring a two player game of tennis.
 
+Milestone 1:
+Have a possibility to create a player with: name, gender and skills (week, middle, strong)
+On this stage we should be possible to create a new player with parameters.
+
+Milestone 2:
+Create a simulation between two players which simulate one game between players. No scores is needed.
+On this stage we should be possible to create a simulator with two players.
+
+Milestone 3:
+Create a score table between two players without deuce handling.
+On this stage the two players should be able to finish the game if one of the players is above 40 points.
+
+Milestone 4:
+Handle a deuce case and create a full game simulation.
+On this stage:
 1. Players must be able to score points
 2. The game must be able to be completed with a winner
-3. The 'deuce' case should be handled
+3. The ‘deuce’ case should be handled
 4. After a game has been won, a winner must be determined
 5. The current score of either player should be available at any point during the game
